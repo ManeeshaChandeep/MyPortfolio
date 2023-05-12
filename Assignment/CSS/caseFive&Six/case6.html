@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+
+        section{
+            position: relative;
+            left: 3px;
+            top: 3px;
+            width: 900px;
+            height: 500px;
+            border: 1px solid black;
+            display: grid;
+            /*grid-template-rows: 1fr 1fr 1fr 1fr 1fr;*/
+            grid-template-rows: repeat(3,1fr);
+
+            /*grid-template-columns: 1fr 1fr 1fr  ;*/
+            grid-template-columns: repeat(4,1fr)  ;
+
+            /*grid-gap: 2px;*/
+            grid-row-gap: 2px;
+            grid-column-gap: 2px;
+
+        }
+        section>div{
+            border: 1px solid red;
+        }
+        /*section>div>img{
+            width: 100%;
+            height: 100%;
+
+        }*/
+
+        section>div:nth-child(1){
+            background: url("assests/01_ducati-superleggera-v4_uc145951_high.jpg");
+           grid-column: 1/3;
+            grid-row: 1/2;
+
+        }
+        section>div:nth-child(2){
+            background: url("assests/MPW-HUSQVARNA_701-Sevenoh2-graphickit_1920x.jpg");
+        }
+        section>div:nth-child(3) {
+            background: url("assests/photo-1534537841395-2e594ba9ed4a.jpg");
+
+        }
+        section>div:nth-child(4) {
+            background: url("assests/Cartoon wallpaper.jpg");
+            grid-column: 1/2;
+            grid-row: 1/4;
+        }
+        section>div:nth-child(5) {
+            background: url("assests/2013-red-ferrari-rachel-cohen.jpg");
+
+        }
+        section>div:nth-child(6) {
+            background: url("assests/2013-red-ferrari-rachel-cohen.jpg");
+
+        }
+        section>div:nth-child(7) {
+            background: url("assests/photo-1534537841395-2e594ba9ed4a.jpg");
+
+        }
+        section>div:nth-child(8) {
+            background: url("assests/download.jpg");
+
+        }
+        section>div:nth-child(9) {
+            background: url("assests/Cartoon wallpaper.jpg");
+
+        }
+        section>div:nth-child(10) {
+            background: url("assests/photo-1534537841395-2e594ba9ed4a.jpg");
+
+        }
+        section>div:nth-child(11) {
+            background: url("assests/friends-sitting-distance-wearing-mask.jpg");
+
+          }
+        section>div:nth-child(12) {
+            background: url("assests/photo-1534537841395-2e594ba9ed4a.jpg");
+
+            }
+
+    </style>
+</head>
+<body>
+<section>
+
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+
+
+
+</section>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
