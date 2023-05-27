@@ -2,17 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f35a3ba9-8ab5-430f-858d-b4355837d82c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/image/IMG-20230208-WA0006 (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPortfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyPortfolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/CSS/CaseThree/lec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG-20230208-WA0006 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhatsApp Image 2023-03-23 at 08.53.38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/image/WhatsApp Image 2023-03-23 at 08.53.38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/CaseTwo/casetwo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/CaseTwo/casetwo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/01_ducati-superleggera-v4_uc145951_high.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/01_ducati-superleggera-v4_uc145951_high.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/2013-red-ferrari-rachel-cohen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/2013-red-ferrari-rachel-cohen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Cartoon wallpaper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/Cartoon wallpaper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Ducati-Hypermotard-950-SP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/Ducati-Hypermotard-950-SP.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/MPW-HUSQVARNA_701-Sevenoh2-graphickit_1920x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/MPW-HUSQVARNA_701-Sevenoh2-graphickit_1920x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/download (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/download (1).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/friends-sitting-distance-wearing-mask.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/friends-sitting-distance-wearing-mask.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/photo-1534537841395-2e594ba9ed4a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/Image/photo-1534537841395-2e594ba9ed4a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/assests/style,css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/style/my.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/case5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/case5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/case7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/CSS/caseFive&amp;Six/case7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/test/testcss.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/myportfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/myportfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,16 +47,30 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\A01\Working Zone\MyPortfolio\Assets" />
+      <recent name="C:\A01\Working Zone\MyPortfolio" />
+      <recent name="C:\A01\Working Zone\MyPortfolio\Assignment\test" />
       <recent name="C:\A01\Working Zone\MyPortfolio\Assets\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\A01\Working Zone\MyPortfolio\Assets" />
+      <recent name="C:\A01\Working Zone\MyPortfolio\new site" />
+      <recent name="C:\A01\Working Zone\MyPortfolio\new site\Assests\Style" />
+      <recent name="C:\A01\Working Zone\MyPortfolio\Assets\style" />
+      <recent name="C:\A01\Working Zone\MyPortfolio\new site\Assests" />
     </key>
   </component>
   <component name="RunManager">
@@ -48,6 +85,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="casetwo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyPortfolio/Assignment/CSS/CaseTwo/casetwo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.casetwo.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,8 +102,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679542221334</updated>
-      <workItem from="1679542235664" duration="1570000" />
+      <workItem from="1679542235664" duration="3613000" />
+      <workItem from="1681975857090" duration="4753000" />
+      <workItem from="1682652211074" duration="2241000" />
+      <workItem from="1684048681372" duration="1270000" />
+      <workItem from="1684183185534" duration="229000" />
+      <workItem from="1684251792572" duration="589000" />
+      <workItem from="1684327986703" duration="10830000" />
+      <workItem from="1684394244543" duration="2667000" />
+      <workItem from="1684555478173" duration="67000" />
+      <workItem from="1684560887249" duration="4123000" />
+      <workItem from="1684688154892" duration="5635000" />
+      <workItem from="1684765094930" duration="10680000" />
+      <workItem from="1684836176950" duration="6277000" />
+      <workItem from="1684851507435" duration="2834000" />
+      <workItem from="1684896055140" duration="11253000" />
+      <workItem from="1684962662111" duration="5444000" />
+      <workItem from="1685013245168" duration="14198000" />
+      <workItem from="1685069125799" duration="10208000" />
+      <workItem from="1685099584358" duration="168000" />
+      <workItem from="1685172163971" duration="6357000" />
     </task>
+    <task id="LOCAL-00001" summary="assignment">
+      <created>1681980392922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681980392922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="assignment">
+      <created>1681980542856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681980542856</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change">
+      <created>1684561001862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684561001862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +160,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assignment" />
+    <MESSAGE value="change" />
+    <MESSAGE value="new site" />
+    <MESSAGE value="New site" />
+    <MESSAGE value="My New site" />
+    <MESSAGE value="portfolio" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

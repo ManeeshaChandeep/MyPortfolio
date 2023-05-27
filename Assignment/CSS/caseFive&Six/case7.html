@@ -2,40 +2,88 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>newone</title>
+    <title>Slide Show Using CSS</title>
+    <link href="assets/css/normalize.css" rel="stylesheet">
     <style>
-        h1 {
-            color: red;
-        }
-
-
-        body {
-            background-color: yellow;
-        }
-
-        #home-link {
+        main {
+            width: 800px;
+            height: 400px;
+            border: 2px solid black;
             position: absolute;
-            top: 10px;
-            right: 10px;
-            font-family: Arial, sans-serif;
-            font-size: 16px;
-            color: #333;
-            text-decoration: none;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        main > section {
+            width: calc(100% * 5);
+            height: 100%;
+            display: flex;
+            animation-name: slider;
+            animation-duration: 10s;
+            animation-iteration-count: infinite;
+        }
+
+        main > section > div {
+            height: 100%;
+            flex-grow: 1;
+        }
+
+        main > section > div:nth-child(1) {
+            background: url("assests/Image/photo-1534537841395-2e594ba9ed4a.jpg");
+            background-size: cover;
+            background-position: top;
+        }
+
+        main > section > div:nth-child(2) {
+            background: url("assests/Image/friends-sitting-distance-wearing-mask.jpg");
+            background-size: cover;
+            background-position: top;
+        }
+
+        main > section > div:nth-child(3) {
+            background: url("assests/Image/Cartoon wallpaper.jpg");
+            background-size: cover;
+            background-position: top;
+        }
+
+        main > section > div:nth-child(4) {
+            background: url("assests/Image/2013-red-ferrari-rachel-cohen.jpg");
+            background-size: cover;
+            background-position: center;
+        }
+
+        main > section > div:nth-child(5) {
+            background: url("assests/Image/download.jpg");
+            background-size: cover;
+            background-position: center;
+        }
+
+        @keyframes slider {
+            from {
+                transform: translateX(0%);
+            }
+            to {
+                transform: translateX(-75%);
+            }
         }
 
     </style>
 </head>
 <body>
-
-
-<a id="home-link" href="index.html">Home</a>
-<h1>My name is<br> Maneesha</h1>
-<p>This is my first
-    website using HTML.</p>
-<img src="image.jpg" alt="My image">
-
+<!--main box-->
+<main>
+    <section>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </section>
+</main>
 
 </body>
 </html>
-
-
