@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f35a3ba9-8ab5-430f-858d-b4355837d82c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/image/IMG-20230208-WA0006 (2).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/myimage.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ad1c6762-1639-4fab-adb0-e56da1e3aa6f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,166 +10,34 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
+        <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="2NOjpKD1rLrxCq4l7LBr8SLhQyv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2QvYerTSxrl7qvyymI9xNnrH8ht" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\A01\Working Zone\MyPortfolio\Assignment" />
-      <recent name="C:\A01\Working Zone\MyPortfolio\Assignment\CSS" />
-      <recent name="C:\A01\Working Zone\MyPortfolio\Assignment\Animations" />
-      <recent name="C:\A01\Working Zone\MyPortfolio\Assets" />
-      <recent name="C:\A01\Working Zone\MyPortfolio" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\A01\Working Zone\MyPortfolio\Assets\Documents" />
-      <recent name="C:\A01\Working Zone\MyPortfolio\Assets" />
-      <recent name="C:\A01\Working Zone\MyPortfolio\new site" />
-      <recent name="C:\A01\Working Zone\MyPortfolio\new site\Assests\Style" />
-      <recent name="C:\A01\Working Zone\MyPortfolio\Assets\style" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="casetwo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyPortfolio/Assignment/CSS/CaseTwo/casetwo.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.casetwo.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f35a3ba9-8ab5-430f-858d-b4355837d82c" name="Default Changelist" comment="" />
-      <created>1679542221334</created>
+      <changelist id="ad1c6762-1639-4fab-adb0-e56da1e3aa6f" name="Changes" comment="" />
+      <created>1686235625581</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679542221334</updated>
-      <workItem from="1679542235664" duration="3613000" />
-      <workItem from="1681975857090" duration="4753000" />
-      <workItem from="1682652211074" duration="2241000" />
-      <workItem from="1684048681372" duration="1270000" />
-      <workItem from="1684183185534" duration="229000" />
-      <workItem from="1684251792572" duration="589000" />
-      <workItem from="1684327986703" duration="10830000" />
-      <workItem from="1684394244543" duration="2667000" />
-      <workItem from="1684555478173" duration="67000" />
-      <workItem from="1684560887249" duration="4123000" />
-      <workItem from="1684688154892" duration="5635000" />
-      <workItem from="1684765094930" duration="10680000" />
-      <workItem from="1684836176950" duration="6277000" />
-      <workItem from="1684851507435" duration="2834000" />
-      <workItem from="1684896055140" duration="11253000" />
-      <workItem from="1684962662111" duration="5444000" />
-      <workItem from="1685013245168" duration="14198000" />
-      <workItem from="1685069125799" duration="10208000" />
-      <workItem from="1685099584358" duration="168000" />
-      <workItem from="1685172163971" duration="8585000" />
-      <workItem from="1685200052568" duration="6115000" />
-      <workItem from="1685285181760" duration="3719000" />
-      <workItem from="1685355596003" duration="9661000" />
+      <updated>1686235625581</updated>
+      <workItem from="1686235627621" duration="2478000" />
     </task>
-    <task id="LOCAL-00001" summary="assignment">
-      <created>1681980392922</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681980392922</updated>
-    </task>
-    <task id="LOCAL-00002" summary="assignment">
-      <created>1681980542856</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1681980542856</updated>
-    </task>
-    <task id="LOCAL-00003" summary="change">
-      <created>1684561001862</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1684561001862</updated>
-    </task>
-    <task id="LOCAL-00004" summary="new">
-      <created>1685187986395</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1685187986395</updated>
-    </task>
-    <task id="LOCAL-00005" summary="assignments">
-      <created>1685373921963</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1685373921963</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="assignment" />
-    <MESSAGE value="change" />
-    <MESSAGE value="new site" />
-    <MESSAGE value="New site" />
-    <MESSAGE value="My New site" />
-    <MESSAGE value="portfolio" />
-    <MESSAGE value="new" />
-    <MESSAGE value="assignments" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignments" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
